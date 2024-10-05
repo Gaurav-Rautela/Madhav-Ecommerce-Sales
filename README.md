@@ -1,0 +1,1 @@
+Analized Madhav Ecommerce Sales data where i create interactive dashboard to track and analyze online sales data. Used complex parameter to drill down in worksheet and customization using filter and slicer. Used different types of customized visualization (Bar chart, pie chart, donut chart, line chart, slicer, etc.) 
